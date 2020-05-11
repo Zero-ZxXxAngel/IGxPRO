@@ -130,7 +130,7 @@ then
     echo ""
     echo -e $yellow "Search on the web : (unable to resolve hostnames ping) to find a solution"
 echo ""
-echo -e $okegreen "BrutSploit will continue , but some of its functions may not work properly."
+echo -e $okegreen "IGxPRO will continue , but some of its functions may not work properly."
 echo ""
 echo -e $okegreen "Press [ENTER] key to continue"
 read continue
@@ -162,7 +162,7 @@ fi
 
 #########################
 #CHECK DEPENDICIES
-#########################  $red"
+#########################
 clear
 echo -e $red"   __________        ____________________
 echo "  |  |  ____|__   __| ____ | __  | ____ |
@@ -255,7 +255,7 @@ echo -e "\t "$green"¦----"$red"►  "$white" Bruteforce & Wordlist Sploit Frame
 echo -e "\t "$green"¦----"$red"►  "$white" Codename "$green": "$red"$CODENAME   "
 echo -e "\t "$green"¦----"$red"►  "$white" Version  "$green": "$red"$VERSION  "
 echo -e "\t "$green"¦----"$red"►  "$white" Modules  "$green": "$red"21 "$green"Modules  "
-echo -e "\t "$green"¦----"$red"►  "$white" Github   "$green": "$BlueF"www.github.com/screetsec  \n\n"
+echo -e "\t "$green"¦----"$red"►  "$white" Github   "$green": "$BlueF"www.github.com/Zero-ZxXxAngel  \n\n"
 }
 
 
