@@ -164,12 +164,6 @@ fi
 #CHECK DEPENDICIES
 #########################
 clear
-echo -e $red"   __________        ____________________
-echo "  |  |  ____|__   __| ____ | __  | ____ |
-echo "  |  | |     \ \ / /| |__| ||__| ||   | |
-echo "  |  | | ,___ \ v / |  ____|___ _||   | |
-echo "  |  | |__| | / ^ \ | |  | |__  |||___| |
-echo "  |__|______|/_/ \_\|_|  |_|  |_||______|
 echo -e $lightgreen'-- -- +=[(c) 2017-2018 | dracos-linux.org | Kali.org | Hacker Indonesia '
 echo -e $cyan'-- -- +=[ Author: Screetsec < Edo Maland >  ]=+ -- -- '
 echo -e " "
@@ -244,12 +238,6 @@ f_un_ban (){
 clear
 echo
 
-echo -e $red"   __________        ____________________
-echo "  |  |  ____|__   __| ____ | __  | ____ |
-echo "  |  | |     \ \ / /| |__| ||__| ||   | |
-echo "  |  | | ,___ \ v / |  ____|___ _||   | |
-echo "  |  | |__| | / ^ \ | |  | |__  |||___| |
-echo "  |__|______|/_/ \_\|_|  |_|  |_||______|
 echo -e "\t "$green"¦"
 echo -e "\t "$green"¦----"$red"►  "$white" Bruteforce & Wordlist Sploit Framework $green[Keys]    "
 echo -e "\t "$green"¦----"$red"►  "$white" Codename "$green": "$red"$CODENAME   "
